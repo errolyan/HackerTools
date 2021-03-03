@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="940b9f20-8954-4f39-86d6-80ab23c4bbe3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1p0j64wmLCQYlScYPQDAR5fDbT0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.bh_sshserver">
+    <configuration name="bh_sshserver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blackhat-python3/chapter02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blackhat-python3/chapter02/bh_sshserver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="passwdCrack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ToolsList/UnixPasswordCrack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ToolsList/UnixPasswordCrack/passwdCrack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="passwd_crack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackTools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/violent-python3/chapter01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/violent-python3/chapter01/passwd_crack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bh_sshserver" />
+        <item itemvalue="Python.passwdCrack" />
+        <item itemvalue="Python.passwd_crack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="940b9f20-8954-4f39-86d6-80ab23c4bbe3" name="Default Changelist" comment="" />
+      <created>1614326722019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614326722019</updated>
+      <workItem from="1614326725533" duration="1656000" />
+      <workItem from="1614644942858" duration="16938000" />
+      <workItem from="1614738847587" duration="830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1085" height="315" key="GridCell.Tab.0.bottom" timestamp="1614738407515">
+      <screen x="1920" y="59" width="3360" height="1865" />
+    </state>
+    <state width="1876" height="315" key="GridCell.Tab.0.bottom/0.25.1920.1118/1920.59.3360.1865@0.25.1920.1118" timestamp="1614645358353" />
+    <state width="1085" height="315" key="GridCell.Tab.0.bottom/0.25.1920.1118/1920.59.3360.1865@1920.59.3360.1865" timestamp="1614738407515" />
+    <state width="1085" height="315" key="GridCell.Tab.0.center" timestamp="1614738407514">
+      <screen x="1920" y="59" width="3360" height="1865" />
+    </state>
+    <state width="1876" height="315" key="GridCell.Tab.0.center/0.25.1920.1118/1920.59.3360.1865@0.25.1920.1118" timestamp="1614645358351" />
+    <state width="1085" height="315" key="GridCell.Tab.0.center/0.25.1920.1118/1920.59.3360.1865@1920.59.3360.1865" timestamp="1614738407514" />
+    <state width="1085" height="315" key="GridCell.Tab.0.left" timestamp="1614738407513">
+      <screen x="1920" y="59" width="3360" height="1865" />
+    </state>
+    <state width="1876" height="315" key="GridCell.Tab.0.left/0.25.1920.1118/1920.59.3360.1865@0.25.1920.1118" timestamp="1614645358350" />
+    <state width="1085" height="315" key="GridCell.Tab.0.left/0.25.1920.1118/1920.59.3360.1865@1920.59.3360.1865" timestamp="1614738407513" />
+    <state width="1085" height="315" key="GridCell.Tab.0.right" timestamp="1614738407515">
+      <screen x="1920" y="59" width="3360" height="1865" />
+    </state>
+    <state width="1876" height="315" key="GridCell.Tab.0.right/0.25.1920.1118/1920.59.3360.1865@0.25.1920.1118" timestamp="1614645358352" />
+    <state width="1085" height="315" key="GridCell.Tab.0.right/0.25.1920.1118/1920.59.3360.1865@1920.59.3360.1865" timestamp="1614738407515" />
+    <state x="282" y="343" key="SettingsEditor" timestamp="1614645343818">
+      <screen x="0" y="25" width="1920" height="1118" />
+    </state>
+    <state x="282" y="343" key="SettingsEditor/0.25.1920.1118/1920.59.3360.1865@0.25.1920.1118" timestamp="1614645343818" />
+    <state x="2413" y="590" key="SettingsEditor/0.25.1920.1118/1920.59.3360.1865@1920.59.3360.1865" timestamp="1614326762947" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HackTools$passwdCrack.coverage" NAME="passwdCrack Coverage Results" MODIFIED="1614645358336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ToolsList/UnixPasswordCrack" />
+    <SUITE FILE_PATH="coverage/HackTools$bh_sshserver.coverage" NAME="bh_sshserver Coverage Results" MODIFIED="1614736596597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blackhat-python3/chapter02" />
+    <SUITE FILE_PATH="coverage/HackTools$passwd_crack.coverage" NAME="passwd_crack Coverage Results" MODIFIED="1614645333599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/violent-python3/chapter01" />
+  </component>
+</project>
